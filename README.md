@@ -1,20 +1,18 @@
 
-
 ## Sobre o Projeto
-Aplicação web interativa do clássico **Jogo da Forca**, desenvolvida com foco em tecnologias modernas de front-end. O projeto conta com suporte a teclado físico e virtual, contagem de sequências de vitórias (*streak*) e uma interface limpa e responsiva.
+Jogo da Forca desenvolvido em **Python**, criado com foco em lógica de programação e manipulação de strings. O projeto roda diretamente no terminal, contando com seleções dinâmicas e interatividade simples e direta.
 
 ---
 
 ## Tecnologias Utilizadas
-* **React** (com Hooks: `useState`, `useEffect`, `useCallback`)
-* **TypeScript**
-* **Tailwind CSS** (para estilização rápida e responsiva)
-* **Lucide React** (para ícones interativos)
+- **Python**
 
 ---
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
+1. Baixe o arquivo `.py` do projeto para o seu computador.
+2. Abra a pasta do projeto no **VS Code**.
+3. Abra o terminal integrado do VS Code e execute o script digitando:
    ```bash
-   git clone [https://github.com/thy-rodrygues/jogo-da-forca.git](https://github.com/thy-rodrygues/jogo-da-forca.git)
+   python nome_do_arquivo.py
