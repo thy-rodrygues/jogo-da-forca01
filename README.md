@@ -1,6 +1,7 @@
-Markdown
+
 # Jogo da Forca — Versão Python
 [![Demo](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 Um jogo da forca simples e direto, desenvolvido em Python para rodar diretamente no terminal. Ideal para praticar lógica de programação, manipulação de strings e controle de fluxo.
 
 ## Funcionalidades
