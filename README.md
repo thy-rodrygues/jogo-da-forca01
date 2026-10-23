@@ -1,5 +1,4 @@
-
-# Jogo da Forca — Versão Python
+# Jogo da Forca - Versao Python
 [![Demo](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 Um jogo da forca simples e direto, desenvolvido em Python para rodar diretamente no terminal. Ideal para praticar lógica de programação, manipulação de strings e controle de fluxo.
@@ -18,18 +17,3 @@ Não precisa instalar dependências complexas:
 3. Execute o arquivo Python diretamente no terminal:
    ```bash
    python jogo_da_forca.py
-
-## Tecnologias
-Python (Vanilla / Stream)
-
-## Estrutura
-
-```
-jogo-da-forca/
-├── jogo_da_forca.py
-└── README.md
-```
-
-## Próximos passos
-- Adicionar um sistema de pontuação e histórico de partidas
-- Permitir escolher o nível de dificuldade (fácil, médio, difícil)
