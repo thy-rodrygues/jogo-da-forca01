@@ -13,6 +13,4 @@ Jogo da Forca desenvolvido em **Python**, criado com foco em lógica de programa
 
 1. Baixe o arquivo `.py` do projeto para o seu computador.
 2. Abra a pasta do projeto no **VS Code**.
-3. Abra o terminal integrado do VS Code e execute o script digitando:
-   ```bash
-   python nome_do_arquivo.py
+3. Abra o terminal integrado do VS Code e execute.
