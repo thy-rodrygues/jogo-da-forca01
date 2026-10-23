@@ -1,16 +1,34 @@
+Markdown
+# Jogo da Forca — Versão Python
+[![Demo](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+Um jogo da forca simples e direto, desenvolvido em Python para rodar diretamente no terminal. Ideal para praticar lógica de programação, manipulação de strings e controle de fluxo.
 
-## Sobre o Projeto
-Jogo da Forca desenvolvido em **Python**, criado com foco em lógica de programação e manipulação de strings. O projeto roda diretamente no terminal, contando com seleções dinâmicas e interatividade simples e direta.
+## Funcionalidades
+- Sorteio de palavras aleatórias baseadas em tecnologia e programação
+- Exibição visual do progresso da forca e das letras acertadas
+- Validação de letras repetidas ou inválidas
+- Controle de vidas/erros restantes
+- Mensagens de vitória ou fim de jogo no terminal
 
----
+## Como rodar
+Não precisa instalar dependências complexas:
+1. Baixe ou clone este repositório
+2. Abra a pasta do projeto no seu editor (como o VS Code)
+3. Execute o arquivo Python diretamente no terminal:
+   ```bash
+   python jogo_da_forca.py
 
-## Tecnologias Utilizadas
-- **Python**
+## Tecnologias
+Python (Vanilla / Stream)
 
----
+## Estrutura
 
-## Como Executar o Projeto
+```
+jogo-da-forca/
+├── jogo_da_forca.py
+└── README.md
+```
 
-1. Baixe o arquivo `.py` do projeto para o seu computador.
-2. Abra a pasta do projeto no **VS Code**.
-3. Abra o terminal integrado do VS Code e execute.
+## Próximos passos
+- Adicionar um sistema de pontuação e histórico de partidas
+- Permitir escolher o nível de dificuldade (fácil, médio, difícil)
