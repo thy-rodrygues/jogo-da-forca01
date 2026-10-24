@@ -19,7 +19,8 @@ Mensagens de vitória ou fim de jogo no terminal
 
 Não precisa instalar dependências complexas:
 
-Baixe ou clone este repositório
+1. Baixe ou clone este repositório
+
 2. Abra a pasta do projeto no seu editor (como o VS Code)
 
 3. Execute o arquivo Python diretamente no terminal:
